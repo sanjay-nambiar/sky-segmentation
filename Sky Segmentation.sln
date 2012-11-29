@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sky Segmentation", "Sky Segmentation\Sky Segmentation.vcproj", "{ACB8F9E7-ED34-4239-B791-7F4B0257462E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACB8F9E7-ED34-4239-B791-7F4B0257462E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ACB8F9E7-ED34-4239-B791-7F4B0257462E}.Debug|Win32.Build.0 = Debug|Win32
+		{ACB8F9E7-ED34-4239-B791-7F4B0257462E}.Release|Win32.ActiveCfg = Release|Win32
+		{ACB8F9E7-ED34-4239-B791-7F4B0257462E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
